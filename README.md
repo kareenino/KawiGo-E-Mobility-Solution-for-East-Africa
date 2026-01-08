@@ -11,14 +11,14 @@ The rider-facing interface allows for real-time station discovery and battery st
 Key Features: Google Maps integration, real-time station filtering, and user authentication.
 Stack: Flutter, Dart.
 
-2. [Web Platform & Admin Portal](https://github.com/kareenino/kawi-web-frontend))
+2. [Web Platform & Admin Portal](https://github.com/kareenino/kawi-web-frontend)
 
 A dual-purpose web solution that serves as the public landing page and the secure operational hub.
 The Site: Public-facing information about the KawiGo mission.
 Admin Dashboard: A secure portal (integrated within the site) for operators to manage fleet logistics, station health, and user data.
 Stack: HTML5, CSS3, JavaScript.
 
-3. [Backend API & Database](https://github.com/kareenino/kawi-web-backend))
+3. [Backend API & Database](https://github.com/kareenino/kawi-web-backend)
 
 The engine that powers the ecosystem, handling data persistence and business logic.
 Key Features: Relational database design, secure API endpoints for mobile/web communication.
