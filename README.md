@@ -27,6 +27,6 @@ Stack: PHP, MySQL (managed via phpMyAdmin).
 # Key Achievements
 Top of Class of my Software Development cohort for the technical complexity and social relevance of this project.
 
-Recognition: Selected as a finalist in the 2025 GreenTech Hackathon out of hundreds of entries.
+Selected as a finalist in the 2025 GreenTech Hackathon out of hundreds of entries.
 
-User-Centric Design: Focused on reducing "range anxiety" for e-motorcycle riders, potentially saving hours of downtime per week.
+Focused on reducing "range anxiety" for e-motorcycle riders, potentially saving hours of downtime per week.
